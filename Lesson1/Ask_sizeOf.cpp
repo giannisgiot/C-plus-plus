@@ -7,11 +7,13 @@ int main() {
     int a;
     float b;
     char g;
+    double k;
 
     // Printing size of all three variables
     cout << "Size of a:  " << sizeof(a) << endl;
     cout << "Size of b:  " << sizeof(b) << endl;
-    cout << "Size of g:  " << sizeof(g);
+    cout << "Size of g:  " << sizeof(g) << endl;
+    cout << "Size of g:  " << sizeof(k)<< endl;
 
     return 0;
 }

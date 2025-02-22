@@ -1,0 +1,5 @@
+1.	Create a class Car with:
+	•Private attributes: brand, model, year
+	•A constructor to initialize these attributes
+	•A method displayInfo() to print the car details
+2.	In main(), create an object of Car and call displayInfo().

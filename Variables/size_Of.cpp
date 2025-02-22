@@ -9,7 +9,7 @@ int main() {
     char g;
     double k;
 
-    // Printing size of all three variables
+    // Printing size of all  variables
     cout << "Size of a:  " << sizeof(a) << endl;
     cout << "Size of b:  " << sizeof(b) << endl;
     cout << "Size of g:  " << sizeof(g) << endl;
